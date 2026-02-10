@@ -1,55 +1,6 @@
-/*style sheet*/
-
-.indie-flower-regular {
-  font-family: "Indie Flower", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.body{
-    font-family: "Indie Flower",cursive;
-    background-color: #f4f4f4;
-    background-image: url("images/computer.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    margin: 0;
-    padding: 40px;
-}
-
-.container{
-    text-align: center;
-}
-
-h1{
-    margin-bottom: 30px;
-}
-
-.line{
-    margin: 6px auto;
-}
-
-.small{
-    width: 40%;
-}
-
-.medium{
-    width: 60%;
-}
-
-.large{
-    width: 80%;
-}
-
-.red{
-    color: red;
-}
-
-.blue{
-    color:#406AD8;
-}
-
-.monster{
-    font-weight:bolder;
+.body {
+  background-image: url('path-to-your-image.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  /* other properties you want to include */
 }
